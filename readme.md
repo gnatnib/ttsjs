@@ -20,5 +20,5 @@ You can see the live demo of the project [here](#).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-to-speech-app.git
+   git clone https://github.com/gnatnib/ttsjs.git
    ```
